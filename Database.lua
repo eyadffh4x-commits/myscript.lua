@@ -12,10 +12,7 @@ return {
     
     
     
-        ["admin"] = {
-        is_expired = true,  
-        msg = "VIP 👑"
-    },
+        
     
     
     
